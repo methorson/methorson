@@ -6,6 +6,8 @@
 
   
  📫 Contact me: **maria.thorson7@gmail.com**
+
+ 💻 Currently working on: Fridgeraid - Reduce waste, eat tasty
 </p>
 
 <h3 align="left">Connect:</h3>
