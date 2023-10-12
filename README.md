@@ -4,10 +4,10 @@
 <p align="left">
   🌱 I’m currently learning: <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a>
 
+ 💻 I'm currently working on: <a href="https://github.com/methorson/fridgeraid" target="_blank" rel="noreferrer">🥕Fridgeraid - Reduce waste, eat tasty</a>
   
  📫 Contact me: **maria.thorson7@gmail.com**
 
- 💻 Currently working on: Fridgeraid - Reduce waste, eat tasty
 </p>
 
 <h3 align="left">Connect:</h3>
@@ -30,6 +30,11 @@
 &nbsp;&nbsp;&nbsp;
   <a href="https://getbootstrap.com" target="_blank" rel="noreferrer">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/>
+  </a>
+&nbsp;&nbsp;&nbsp;
+  <a href="https://sass-lang.com" target="_blank" rel="noreferrer"> 
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sass/sass-original.svg" alt="sass" width="40" height="40"/> </a> <a href="https://www.sqlite.org/" target="_blank" rel="noreferrer"> <img     
+    src="https://www.vectorlogo.zone/logos/sqlite/sqlite-icon.svg" alt="sqlite" width="40" height="40"/> 
   </a>
 &nbsp;&nbsp;&nbsp;
   <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> 
